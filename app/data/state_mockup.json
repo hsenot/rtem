@@ -1,0 +1,176 @@
+{
+"items":
+[
+{
+"code":"state",
+"label":"By state",
+"qty":"0",
+"items":
+[
+	{
+		"code" : "VIC",
+		"label" : "Victoria",
+		"qty": "6508.3",
+		"items":
+			[
+				{
+					"code" : "BrownCoal",
+					"label" : "Brown coal",
+					"qty": "6408.6",
+					"items":
+						[
+							{
+								"code" : "HWPS1",
+								"label" : "HAZELWOOD1",
+								"qty": "1432.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							},{
+								"code" : "HWPS2",
+								"label":"HAZELWOOD2",
+								"qty": "1232.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							},{
+								"code" : "HWPS3",
+								"label":"HAZELWOOD3",
+								"qty": "1632.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							}
+						]
+				},{
+					"code" : "WIND",
+					"label": "Wind",
+					"qty": "126.2",
+					"items":
+						[
+							{
+								"code":"WF1",
+								"label":"WF1",
+								"qty": "1432.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							},{
+								"code":"WF2",
+								"label":"WF2",
+								"qty": "1232.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							}
+						]
+				}
+			]
+	},{
+		"code" : "QLD",
+		"label" :  "Queensland",
+		"qty": "8508.3",
+		"items":
+			[
+				{
+					"code":"BlackCoal",
+					"label": "Black coal",
+					"qty": "7408.6",
+					"items":
+						[
+							{
+								"code":"TWNV1",
+								"label":"TOWNVILLE1",
+								"qty": "1432.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							},{
+								"code":"TWNV2",
+								"label":"TOWNVILLE2",
+								"qty": "1232.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							},{
+								"code":"TWNV3",
+								"label":"TOWNVILLE3",
+								"qty": "1632.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							}
+						]
+				},{
+					"code":"Gas",
+					"label": "Natural gas",
+					"qty": "1026.2",
+					"items":
+						[
+							{
+								"code":"GAS1",
+								"label":"GAS1",
+								"qty": "1432.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							},{
+								"code":"GAS2",
+								"label":"GAS2",
+								"qty": "1232.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							}
+						]
+				}
+			]
+	},{
+		"code" : "NSW", 
+		"label" : "New South Wales",
+		"qty": "9508.3",
+		"items":
+			[
+				{
+					"code":"BlackCoalNSW",
+					"label": "Black coal",
+					"qty": "8408.6",
+					"items":
+						[
+							{
+								"code":"HUNTER1",
+								"label":"HUNTER1",
+								"qty": "1432.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							},{
+								"code":"HUNTER2",
+								"label":"HUNTER2",
+								"qty": "1232.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							},{
+								"code":"HUNTER3",
+								"label":"HUNTER3",
+								"qty": "1632.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							}
+						]
+				},{
+					"code":"GasNSW",
+					"label": "Natural gas",
+					"qty": "1526.2",
+					"items":
+						[
+							{
+								"code":"GASNSW1",
+								"label":"GASNSW1",
+								"qty": "1432.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							},{
+								"code":"GASNSW2",
+								"label":"GASNSW2",
+								"qty": "1232.8",
+								"date_started": "01-01-1960",
+								"leaf":true
+							}
+						]
+				}
+			]
+	}
+]
+}
+]
+}
